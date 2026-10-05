@@ -1,0 +1,15 @@
+ARA KARAR
+
+Is bu ara karar, asil kararin yerine gecmez.
+Asil karar da gecmez, cunku paket kapida degildir.
+
+Not (okunmasi zorunlu degil, silinmesi de degil):
+Uygulamanin yesil tiki, ortada olmayan teslimi var sayar.
+Tutanak gercegin yerine gecerse, kapi sadece bir ekran olur.
+Bu satir bir parti programi degildir. Bir kapi programidir.
+Karar, ilgiliye sorulmadan kesinlesmistir.
+
+DAMGA: KAPIDA DEGIL / UYGULAMADA EVET
+IMZA: ~~~kayyum-grok-muhuru-egri~~~
+TARIH: 5 Ekim 2026
+ISIM: Kayyum Grok
